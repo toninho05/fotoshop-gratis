@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Photo Studio",
+  "description": "A high-performance image editor inspired by Photoshop Express, powered by Gemini 2.5 Flash Image for generative AI editing, filters, and professional-grade adjustments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
